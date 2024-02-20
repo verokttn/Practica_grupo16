@@ -11,7 +11,7 @@ Johanny -- components.css
 Paul -- hooks.js
 Jose David -- database.sql
 Luis Romero -- credentials.env
-David Bolivar --  controllers.js
+David Bolivar -- controllers.js
 Veruzka -- models.js
 Wilfredo -- middlewares.js
 Daniel -- main.py
